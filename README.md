@@ -18,21 +18,26 @@
   <img src="https://komarev.com/ghpvc/?username=pduartp&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="personalInformation" align="center">
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+<div id="personalInformation" align="center">  
+  
+  # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
+  ---
+  
+  - 👨 I’m @pduartp, i'm 23 years old and i live in Montes Claros, Minas Gerais.
+  - 🖥️ I’m student of Computer Science in IFNMG...
+  - 🧠 I know C, C++, JavaScript, Python, Java, SciLab, MySQL, Oracle;
+  - 🧮 I am currently learning C#;
+  - ❤️ I’m love design, programming, games, anime...;
+  - 👨‍💻 I intend to pursue a career in web developer (especially frontend), ux/ui design;
+    
+  ---
 
-- 👨 I’m @pduartp, i'm 23 years old and i live in Montes Claros, Minas Gerais.
-- 🖥️ I’m student of Computer Science in IFNMG...
-- 🧠 I know C, C++, JavaScript, Python, Java, SciLab, MySQL, Oracle;
-- 🧮 I am currently learning C#;
-- ❤️ I’m love design, programming, games, anime...;
-- 👨‍💻 I intend to pursue a career in web developer (especially frontend), ux/ui design;
+  ## :fire: My Stats :
+  
+  ---
+  
 </div>
-
-
 
 <!---
 pduartp/pduartp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
