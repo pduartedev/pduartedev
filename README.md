@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/patrickduarte">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,13 +14,25 @@
   </a>
 </div>
 
-- 👋 Hi, I’m @pduartp, i'm 23 years old and i live in Montes Claros, Minas Gerais.
+<div id="badgeView" align="center">
+  <img src="https://komarev.com/ghpvc/?username=pduartp&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div id="personalInformation" align="center">
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+
+- 👨 I’m @pduartp, i'm 23 years old and i live in Montes Claros, Minas Gerais.
 - 🖥️ I’m student of Computer Science in IFNMG...
 - 🧠 I know C, C++, JavaScript, Python, Java, SciLab, MySQL, Oracle;
 - 🧮 I am currently learning C#;
 - ❤️ I’m love design, programming, games, anime...;
-- 👨‍💻 I intend to pursue a career in web developer (
-especially frontend), ux/ui design;
+- 👨‍💻 I intend to pursue a career in web developer (especially frontend), ux/ui design;
+</div>
+
+
 
 <!---
 pduartp/pduartp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
