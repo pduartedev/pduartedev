@@ -14,9 +14,9 @@
   </a>
 </div>
 
-<div id="badgeView" align="center">
-  <img src="https://komarev.com/ghpvc/?username=pduartp&style=flat-square&color=blue" alt=""/>
-</div>
+#<div id="badgeView" align="center">
+#  <img src="https://komarev.com/ghpvc/?username=pduartp&style=flat-square&color=blue" alt=""/>
+#</div>
 
 <div id="personalInformation" align="center">  
   
