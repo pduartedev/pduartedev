@@ -14,13 +14,9 @@
   </a>
 </div>
 
-<div id="badgeView" align="center">
-  <img src="https://komarev.com/ghpvc/?username=pduartp&style=flat-square&color=blue" alt=""/>
-</div>
-
-# <div id="personalInformation" align="center">  
+<div id="personalInformation" align="center">  
   
-  # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
   ---
   
