@@ -15,11 +15,11 @@
 
 ---
 
-<div id="greetings" align="center">  
-  
-Alt-# Hey there!!!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
-  
+<div id="greetings" align="center>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
 </div>
+
+# Hey there!!!  
 
 </br>
 </br>
