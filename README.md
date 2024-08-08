@@ -51,6 +51,9 @@
   <a href="https://steamcommunity.com/id/dartesoul/">
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=whit" alt="STEAM Profile Badge"/>
   </a>
+  <a href="https://www.behance.net/patrickdpimenta">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="BEHANCE Profile Badge"/>
+  </a>
   
 </div>
 
