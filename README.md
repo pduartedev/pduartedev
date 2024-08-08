@@ -1,5 +1,5 @@
 <div id="skills" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100"/>
 </div>
 
 <div id="header" align="center">
