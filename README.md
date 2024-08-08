@@ -33,6 +33,7 @@
 </br>
 
 <div id="personalInformation" align="center">
+  
   # My Personal Information:
   
   <a href="https://www.linkedin.com/in/patrickduarte">
@@ -41,5 +42,6 @@
   <a href="https://www.youtube.com/channel/UCi6hVImCOlCXMXKRH076_Jw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  
 </div>
 
