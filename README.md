@@ -66,7 +66,7 @@
 
 <div id="stats" align="center">
   
-  ### :fire::fire::fire:  My Stats :fire::fire::fire: :
+  ### :fire::fire::fire:  My Stats :fire::fire::fire:
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pduartp&theme=radical)](https://git.io/streak-stats)
   
