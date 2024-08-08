@@ -1,7 +1,7 @@
 <div id="skills" align="center">
 <img src="[![image](https://github.com/user-attachments/assets/23f1380b-9d15-47a6-90e1-956cf21f3d2f)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)"/>
 </div>
-
+https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
