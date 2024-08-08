@@ -10,5 +10,5 @@
 
   </br>
 
-  <img src="figma,git,github,ps,powershell,regex,stackoverflow,visualstudio,vscode,windows"/>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,ps,powershell,regex,stackoverflow,visualstudio,vscode,windows"/>
 </div>
