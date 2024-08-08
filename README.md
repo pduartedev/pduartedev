@@ -21,7 +21,7 @@
 
   # Hey there: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
 
-  <div id="leftList" align="left">
+  <div id="leftList" align="center">
     
     * 👨 I’m @pduartp, i'm 24 years old and i live in Montes Claros, Minas Gerais.
     * 🖥️  I’m student of Computer Science in IFNMG...
