@@ -45,6 +45,12 @@
   <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcRwRCZnfvpvBkKJLzxNFmcjvKTNZJZlJrXMQzbZsWFsFCRDdPDStSjSVGLgtsKNBZgMBLtsq">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="https://www.twitch.tv/dartesoul">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=whit" alt="Twich Profile Badge"/>
+  </a>
+  <a href="https://steamcommunity.com/id/dartesoul/">
+    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=whit" alt="STEAM Profile Badge"/>
+  </a>
   
 </div>
 
