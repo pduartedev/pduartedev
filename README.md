@@ -30,6 +30,8 @@
   
 </div>
 
+</br>
+
 <div id="personalInformation" align="center">
   # My Personal Information:
   
