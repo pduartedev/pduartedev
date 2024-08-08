@@ -27,8 +27,16 @@
   * ### ❤️ I’m love design, programming, games, anime...;
   * ### 👨‍💻 I intend to pursue a career in web developer (especially frontend), ux/ui design;
   #
-
-  ### ℹ️ My personal information:
+  
 </div>
 
+<div id="personalInformation" align="center">
+    ### ℹ️ My personal information:
+    <a href="https://www.linkedin.com/in/patrickduarte">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCi6hVImCOlCXMXKRH076_Jw">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+</div>
 
