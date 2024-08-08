@@ -59,7 +59,7 @@
 
 </br>
 
-<div id="stats" align="center">
+<div id="stats" align="left">
   
   ### :fire: My Stats :
   
