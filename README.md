@@ -13,6 +13,8 @@
   <img src="https://skillicons.dev/icons?i=figma,git,github,ps,powershell,regex,stackoverflow,visualstudio,vscode,windows"/>
 </div>
 
+---
+
 <div id="personalInformation" align="center">
   
   ### ℹ️ My Personal Information:
