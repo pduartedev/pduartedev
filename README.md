@@ -24,13 +24,13 @@
 
 
 <div id="personalInformation" align="center">  
-
-  ### - 👨 I’m @pduartp, i'm 24 years old and i live in Montes Claros, Minas Gerais.
-  ### - 🖥️  I’m student of Computer Science in IFNMG...
-  ### - 🧠 I am currently learning PHP and Laravel;
-  ### - ❤️ I’m love design, programming, games, anime...;
-  ### - 👨‍💻 I intend to pursue a career in web developer (especially frontend), ux/ui design;
-
+  <p align="left">
+    ### - 👨 I’m @pduartp, i'm 24 years old and i live in Montes Claros, Minas Gerais.
+    ### - 🖥️  I’m student of Computer Science in IFNMG...
+    ### - 🧠 I am currently learning PHP and Laravel;
+    ### - ❤️ I’m love design, programming, games, anime...;
+    ### - 👨‍💻 I intend to pursue a career in web developer (especially frontend), ux/ui design;
+  </p>
 </div>
 
 ---
