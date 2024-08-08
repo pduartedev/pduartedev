@@ -15,15 +15,11 @@
 
 ---
 
-<div id="Salutation" align="center">
-  
+<div id="greetings" align="center">
+
   # Hey there: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-</div>
-
-<div id="personalInformation" align="center">
-  
-  * ### 👨 I’m @pduartp, i'm 24 years old and i live in Montes Claros, Minas Gerais.
+   * ### 👨 I’m @pduartp, i'm 24 years old and i live in Montes Claros, Minas Gerais.
   * ### 🖥️  I’m student of Computer Science in IFNMG...
   * ### 🧠 I am currently learning PHP and Laravel;
   * ### ❤️ I’m love design, programming, games, anime...;
