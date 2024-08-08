@@ -5,6 +5,7 @@
 </div>
 
 </br>
+</br>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
@@ -17,7 +18,7 @@
 
 <div id="personalInformation" align="center">
   
-  ### ℹ️ My Personal Information:
+  ### ℹ️ My Profiles:
   
   <a href="https://www.linkedin.com/in/patrickduarte">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
