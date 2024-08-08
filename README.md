@@ -28,7 +28,7 @@
   * ### 👨‍💻 I intend to pursue a career in web developer (especially frontend), ux/ui design;
   #
 
-  ### My personal information:
+  ### ℹ️ My personal information:
 </div>
 
 
