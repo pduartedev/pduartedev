@@ -34,7 +34,7 @@
 
 <div id="personalInformation" align="center">
   
-  # My Personal Information:
+  ### ℹ️ My Personal Information:
   
   <a href="https://www.linkedin.com/in/patrickduarte">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
