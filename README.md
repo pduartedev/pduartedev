@@ -21,7 +21,6 @@
 <div id="badges" align="center">
 
   ---
-  
   # My Personal Information:
   
   <a href="https://www.linkedin.com/in/patrickduarte">
@@ -32,9 +31,8 @@
   </a>
 </div>
 
+
 <div id="personalInformation" align="center">  
-  
-  
   ---
   
   - 👨 I’m @pduartp, i'm 24 years old and i live in Montes Claros, Minas Gerais.
@@ -45,8 +43,6 @@
   - 👨‍💻 I intend to pursue a career in web developer (especially frontend), ux/ui design;
   
   ---
-  
-  
 </div>
 
 <div id="stats" align="center">
