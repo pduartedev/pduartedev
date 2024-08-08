@@ -19,8 +19,6 @@
 </div>
 
 <div id="badges" align="center">
-
-  ---
   # My Personal Information:
   
   <a href="https://www.linkedin.com/in/patrickduarte">
