@@ -17,7 +17,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
   
   ---
   
-  - 👨 I’m @pduartp, i'm 23 years old and i live in Montes Claros, Minas Gerais.
+  - 👨 I’m @pduartp, i'm 24 years old and i live in Montes Claros, Minas Gerais.
   - 🖥️ I’m student of Computer Science in IFNMG...
   - 🧠 I know C, C++, C#, .NET JavaScript, Python, Java, SciLab, MySQL, Oracle;
   - 🧮 I am currently learning PHP and Laravel;
