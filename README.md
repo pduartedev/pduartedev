@@ -33,7 +33,7 @@
 
 <div id="personalInformation" align="center">  
   
-  ---
+  
   
   - 👨 I’m @pduartp, i'm 24 years old and i live in Montes Claros, Minas Gerais.
   - 🖥️ I’m student of Computer Science in IFNMG...
@@ -42,7 +42,7 @@
   - ❤️ I’m love design, programming, games, anime...;
   - 👨‍💻 I intend to pursue a career in web developer (especially frontend), ux/ui design;
     
-  ---
+  
   
 </div>
 
