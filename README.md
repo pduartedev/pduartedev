@@ -18,7 +18,7 @@
 
 <div id="greetings" align="center">
   
-  # Hey there!!!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"/>
+  # Hey there!!!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
   
 </div>
 
@@ -31,6 +31,7 @@
   - 🧮 I am currently learning PHP and Laravel;
   - ❤️ I’m love design, programming, games, anime...;
   - 👨‍💻 I intend to pursue a career in web developer (especially frontend), ux/ui design;
-  
-  ---
+
 </div>
+
+---
