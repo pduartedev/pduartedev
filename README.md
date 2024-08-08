@@ -71,7 +71,7 @@
   ### :fire::fire::fire:  My Stats :fire::fire::fire:
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pduartp&theme=radical)](https://git.io/streak-stats)
-  ![pduartp's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![pduartp's GitHub stats](https://github-readme-stats.vercel.app/api?username=pduartp&show_icons=true&theme=transparent)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pduartp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
