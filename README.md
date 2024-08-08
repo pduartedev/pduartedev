@@ -13,28 +13,6 @@
   <img src="https://skillicons.dev/icons?i=figma,git,github,ps,powershell,regex,stackoverflow,visualstudio,vscode,windows"/>
 </div>
 
----
-
-</br>
-
-<div id="greetings" align="center">
-
-  # Hey there: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
-
-  * ### 👨 I’m @pduartp, i'm 24 years old and i live in Montes Claros, Minas Gerais.
-  * ### 🖥️  I’m student of Computer Science in IFNMG...
-  * ### 🧠 I am currently learning PHP and Laravel;
-  * ### ❤️ I’m love design, programming, games, anime...;
-  * ### 👨‍💻 I intend to pursue a career in web developer (especially frontend), ux/ui design;
-  #
-  
-</div>
-
-</br>
-</br>
-
----
-
 <div id="personalInformation" align="center">
   
   ### ℹ️ My Personal Information:
@@ -63,6 +41,21 @@
 ---
 
 </br>
+
+<div id="greetings" align="center">
+
+  # Hey there: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
+
+  * ### 👨 I’m @pduartp, i'm 24 years old and i live in Montes Claros, Minas Gerais.
+  * ### 🖥️  I’m student of Computer Science in IFNMG...
+  * ### 🧠 I am currently learning PHP and Laravel;
+  * ### ❤️ I’m love design, programming, games, anime...;
+  * ### 👨‍💻 I intend to pursue a career in web developer (especially frontend), ux/ui design;
+  #
+  
+</div>
+
+</br>
 </br>
 
 <div id="stats" align="center">
@@ -73,4 +66,5 @@
     
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pduartp&theme=radical)](https://git.io/streak-stats)
   ![pduartp's GitHub stats](https://github-readme-stats.vercel.app/api?username=pduartp&show_icons=true&theme=transparent)
+
 </div>
