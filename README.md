@@ -21,6 +21,8 @@
   
 </div>
 
+</br>
+</br>
 
 <div id="personalInformation" align="center">
   
