@@ -21,9 +21,6 @@
 
 </div>
 
-</br>
-</br>
-
 <div id="personalInformation" align="center">
   
   * ### 👨 I’m @pduartp, i'm 24 years old and i live in Montes Claros, Minas Gerais.
