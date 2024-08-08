@@ -4,4 +4,4 @@
 
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,azure,js,html,css,python,opencv,java,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,azure,js,html,css,python,opencv,java,git,github,mysql)](https://skillicons.dev)
