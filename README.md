@@ -30,7 +30,7 @@
   * 🧠 I am currently learning PHP and Laravel;
   * ❤️ I’m love design, programming, games, anime...;
   * 👨‍💻 I intend to pursue a career in web developer (especially frontend), ux/ui design;
-
+  #
 </div>
 
 ---
