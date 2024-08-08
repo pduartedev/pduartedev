@@ -6,5 +6,9 @@
 </br>
 
 <div id="skills" align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,azure,js,html,css,python,opencv,java,git,github,mysql"/img>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,azure,js,html,css,python,opencv,java,git,github,mysql"/>
+
+  </br>
+
+  <img src=""/>
 </div>
