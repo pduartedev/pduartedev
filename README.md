@@ -1,5 +1,5 @@
 <div id="skills" align="center">
-<img src="[![image](https://github.com/user-attachments/assets/9a7b1b39-102c-447d-a3a9-a55e9c5bf664)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt=p"Python Badge"/>
+<img src="[![image](https://github.com/user-attachments/assets/9a7b1b39-102c-447d-a3a9-a55e9c5bf664)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) alt=p"Python Badge"/>
 </div>
 
 <div id="header" align="center">
