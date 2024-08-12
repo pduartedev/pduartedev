@@ -59,13 +59,14 @@
 
 </br>
 
-<div id="stats" align="center">
-  
-  ### :fire::fire::fire:  My Stats :fire::fire::fire:
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pduartp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-    
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pduartp&theme=radical)](https://git.io/streak-stats)
-  ![pduartp's GitHub stats](https://github-readme-stats.vercel.app/api?username=pduartp&show_icons=true&theme=transparent)
+<details>
+  <summary>
+    ### :fire: Meus Stats :fire:
+  </summary>
 
-</div>
+  <div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pduartp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pduartp&theme=radical)](https://git.io/streak-stats)
+    ![pduartp's GitHub stats](https://github-readme-stats.vercel.app/api?username=pduartp&show_icons=true&theme=transparent)
+  </div>
+</details>
