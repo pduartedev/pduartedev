@@ -61,7 +61,7 @@
 
 <details>
   <summary>
-    ### :fire: Meus Stats :fire:
+    :fire: Meus Stats :fire:
   </summary>
 
   <div>
