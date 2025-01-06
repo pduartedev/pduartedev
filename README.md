@@ -22,7 +22,7 @@
 
 <div id="personalInformation" align="center">
   
-  ### ℹ️ My Profiles:
+  ### 🧔 My Profiles:
   
   <a href="https://www.linkedin.com/in/patrickduarte">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
