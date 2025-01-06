@@ -1,7 +1,5 @@
 <div id="skills" align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,heroku,azure,mysql,html,css"/>
-  </br>
-  <img src="https://skillicons.dev/icons?i=js,bootstrap,python,opencv,anaconda,java,php,laravel"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,heroku,azure,mysql,html,css,js,bootstrap,python,opencv,anaconda,java,php,laravel"/>
   </br>
   <img src="https://skillicons.dev/icons?i=figma,git,github,ps,powershell,regex,stackoverflow,visualstudio,vscode,windows,macOS"/>
 </div>
