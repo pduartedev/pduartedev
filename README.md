@@ -1,5 +1,5 @@
 <div id="skills" align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,python,java,php,html,css">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,php,js,html,css,mysql,sqlserver,postgresql">
   </br>
   <img src="https://skillicons.dev/icons?i=dotnet,heroku,azure,bootstrap,opencv,anaconda,laravel">
   </br>
