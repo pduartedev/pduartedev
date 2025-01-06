@@ -1,9 +1,9 @@
 <div id="skills" align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,php,js,html,css,mysql,postgresql">
   </br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,jquery,nodejs,laravel,npm,dotnet,heroku,azure,opencv,anaconda">
+  <img src="https://skillicons.dev/icons?i=bootstrap,jquery,nodejs,regex,laravel,npm,dotnet,heroku,azure,opencv,anaconda">
   </br>
-  <img src="https://skillicons.dev/icons?i=latex,md,figma,git,github,ps,powershell,regex,stackoverflow,windows,apple,gmail"/>
+  <img src="https://skillicons.dev/icons?i=latex,md,figma,git,github,ps,powershell,stackoverflow,windows,apple,gmail"/>
   </br>
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,clion"/>
   </br>
