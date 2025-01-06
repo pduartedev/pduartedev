@@ -5,7 +5,7 @@
   </br>
   <img src="https://skillicons.dev/icons?i=latex,md,figma,git,github,ps,powershell,regex,stackoverflow,windows,apple,gmail"/>
   </br>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,clion,windows,apple,gmail"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,clion"/>
   </br>
 </div>
 
