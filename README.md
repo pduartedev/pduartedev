@@ -1,4 +1,6 @@
 <div id="skills" align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,python,java,php">
+  </br>
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,heroku,azure,mysql,html,css,js,bootstrap,python,opencv,anaconda,java,<br>,php,laravel,figma,git,github,ps,powershell,regex,stackoverflow,visualstudio,vscode,windows,gmail"/>
   </br>
 </div>
