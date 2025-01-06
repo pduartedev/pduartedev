@@ -3,7 +3,7 @@
   </br>
   <img src="https://skillicons.dev/icons?i=bootstrap,jquery,nodejs,regex,laravel,npm,dotnet,heroku,azure,opencv,anaconda">
   </br>
-  <img src="https://skillicons.dev/icons?i=latex,md,figma,git,github,ps,powershell,stackoverflow,windows,apple,gmail"/>
+  <img src="https://skillicons.dev/icons?i=git,github,latex,md,figma,ps,powershell,stackoverflow,windows,apple,gmail"/>
   </br>
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,clion"/>
   </br>
