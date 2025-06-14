@@ -30,9 +30,6 @@
   <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcRwRCZnfvpvBkKJLzxNFmcjvKTNZJZlJrXMQzbZsWFsFCRDdPDStSjSVGLgtsKNBZgMBLtsq">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.behance.net/patrickdpimenta">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="BEHANCE Profile Badge"/>
-  </a>
   <a href="https://www.youtube.com/channel/UCi6hVImCOlCXMXKRH076_Jw">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube Badge"/>
   </a>
