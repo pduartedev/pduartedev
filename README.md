@@ -56,19 +56,3 @@
   #
   
 </div>
-
-</br>
-
-<details>
-  <summary>
-    :fire: My Stats :fire:
-  </summary>
-
-  <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pduartedev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-    
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pduartedev&theme=radical)](https://git.io/streak-stats)
-    
-    ![pduartp's GitHub stats](https://github-readme-stats.vercel.app/api?username=pduartedev&show_icons=true&theme=transparent)
-  </div>
-</details>
