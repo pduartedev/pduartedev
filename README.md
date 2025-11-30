@@ -63,11 +63,14 @@ const patrick = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pduartedev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats. vercel.app/api?username=pduartedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pduartedev&layout=compact&langs_count=8&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pduartedev&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pduartedev&theme=tokyonight&hide_border=true)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pduartedev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
