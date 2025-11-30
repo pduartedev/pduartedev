@@ -73,10 +73,10 @@ const patrick = {
 
 ---
 
-## 🎯 Vida de Estudante de Ciência da Computação
+## 🎯 Computer Science Student VIBE
 
-- 🤯 Quebrando a cabeça com algoritmos e estruturas de dados
-- 📚 Sobrevivendo às madrugadas de código e café ☕
+- 🤯 Quebrando a cabeça com algoritmos
+- 📚 Sobrevivendo às madrugadas de código
 - 💡 Transformando bugs em features (ou tentando...)
 - 🎮 Procrastinando com games enquanto o código compila
 - 🚀 Buscando descobrir minha verdadeira paixão na computação
