@@ -24,7 +24,7 @@ const patrick = {
     localização: "Montes Claros, MG 🇧🇷",
     educação: "Ciência da Computação @ IFNMG",
     atualmenteLearning: ["PHP", "Web Development"],
-    interesses: ["Design", "Programação", "Games", "Anime"],
+    interesses: ["Design", "Programação", "Biologia", "Ciëncia", "Games", "Anime"],
     objetivo: "Encontrar minha área dos sonhos na computação! 🚀"
 };
 ```
