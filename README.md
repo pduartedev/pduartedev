@@ -23,7 +23,7 @@ const patrick = {
     idade: 25,
     localização: "Montes Claros, MG 🇧🇷",
     educação: "Ciência da Computação @ IFNMG",
-    atualmenteLearning: ["PHP", "Web Development"],
+    atualmenteLearning: ["Data Analysis"],
     interesses: ["Design", "Programação", "Biologia", "Ciëncia", "Games", "Anime"],
     objetivo: "Encontrar minha área dos sonhos na computação! 🚀"
 };
