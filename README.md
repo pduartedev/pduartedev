@@ -25,7 +25,7 @@ const patrick = {
     educação: "Ciência da Computação @ IFNMG",
     atualmenteLearning: ["Data Analysis"],
     interesses: ["Design", "Programação", "Biologia", "Ciëncia", "Games", "Anime"],
-    objetivo: "Encontrar minha área dos sonhos na computação! 🚀"
+    objetivo: "Ser um cientista de dados =D 🚀"
 };
 ```
 
@@ -75,7 +75,6 @@ const patrick = {
 - 📚 Sobrevivendo às madrugadas de código
 - 💡 Transformando bugs em features (ou tentando...)
 - 🎮 Procrastinando com games enquanto o código compila
-- 🚀 Buscando descobrir minha verdadeira paixão na computação
 
 ---
 
